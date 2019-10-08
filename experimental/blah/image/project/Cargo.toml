@@ -1,5 +1,5 @@
 [package]
-name = "rust-rocket"
+name = "blah-rocket"
 version = "0.1.0"
 authors = ["Name <name@email.com>"]
 edition = "2018"
